@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="TheatreAdmin.Tests/TheatreAdmin.Tests.csproj" />
-  <Project Path="TheatreAdmin/TheatreAdmin.csproj" />
-</Solution>
